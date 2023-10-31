@@ -1,0 +1,30 @@
+Match ID,Batting position,Ground,Opposite Team,Pitch,Vanue City,Weather,Average in last 5 matches,Average in last Five matches,Four in last 5 matches,Four in last Five matches, Six in last 5 matches, Six in last Five matches,Score in last 5 matches,Score in last Five matches
+ODI # 3030,4,Dambulla,v India,Grass,Dambulla,windy,129.95,Low Performance,7,low,2,High,121,Medium
+ODI # 3031,4,Dambulla,v Sri Lanka,Grass,Dambulla,sunny,129.95,Low Performance,7,low,2,High,121,Medium
+ODI # 3037,-,Dambulla,v Sri Lanka,Grass,Dambulla,windy,178.96,Low Performance,7,low,2,High,146,Medium
+ODI # 3039,6,Dambulla,v India,Grass,Dambulla,suuny,242,Low Performance,11,Medium,2,High,175,High
+ODI # 3056,5,Mirpur,v Bangladesh,Grass,Mirpur,sunny,235.86,Low Performance,11,Medium,2,High,183,High
+ODI # 3058,5,Mirpur,v Bangladesh,Grass,Mirpur,rainy,220.71,Low Performance,6,low,0,low,117,Medium
+ODI # 3070,3,Guwahati,v India,Grass,Guwahati,rainy,262.37,Medium Performance,7,low,0,low,132,Medium
+ODI # 3072,3,Jaipur,v India,Grass,Jaipur,sunny,339.28,Medium Performance,11,Medium,0,low,107,Medium
+ODI # 3074,3,Vadodara,v India,dry,Vadodara,windy,338.74,Medium Performance,7,low,0,low,83,low
+ODI # 3090,5,Christchurch,v Pakistan,Grass,Christchurch,sunnyy,389.42,High Performance,7,low,1,Medium,62,low
+ODI # 3093,5,Napier,v Pakistan,Grass,Napier,rainy,460.26,High Performance,9,low,1,Medium,42,low
+ODI # 3129,6,Wankhede,v Canada,dry,Wankhede,windy,418.6,High Performance,8,low,1,Medium,27,low
+ODI # 3137,5,Wankhede,v Sri Lanka,dry,Wankhede,windy,370.45,High Performance,5,low,1,Medium,27,low
+ODI # 3144,6,Mirpur,v South Africa,Grass,Mirpur,rainy,452.87,High Performance,16,High,2,High,22,low
+ODI # 3146,6,Colombo (RPS),v Sri Lanka,Grass,Colombo,sunny,426.22,High Performance,19,High,1,Medium,57,low
+ODI # 3204,-,Harare,v Zimbabwe,Grass,harare,sunny,338.72,Medium Performance,16,High,1,Medium,39,low
+ODI # 3206,5,Harare,v Zimbabwe,Grass,harare,sunny,433.72,High Performance,19,High,1,Medium,77,low
+ODI # 3209,6,Bulawayo,v Zimbabwe,Grass,Bulawayo,sunny,435.66,High Performance,22,High,1,Medium,132,Medium
+ODI # 3230,4,Dunedin,v Zimbabwe,Grass,Dunedin,windy,362.96,High Performance,11,Medium,0,low,145,Medium
+ODI # 3232,5,Whangarei,v Zimbabwe,Grass,Whangarei,rainy,348.09,Medium Performance,8,low,0,low,132,Medium
+ODI # 3234,5,Napier,v Zimbabwe,Grass,Napier,sunny,344.24,Medium Performance,9,low,0,low,152,High
+ODI # 3249,4,Wellington,v South Africa,Grass,Wellington,rainy,338.47,Medium Performance,10,Medium,1,Medium,172,High
+ODI # 3252,4,Napier,v South Africa,Grass,Napier,sunny,311.7,Medium Performance,7,low,1,Medium,126,Medium
+ODI # 3254,4,Auckland,v South Africa,well balanced,Auckland,windy,264.48,Medium Performance,7,low,1,Medium,116,Medium
+ODI # 3283,4,Kingston,v West Indies,well balanced,Kingston,windy,295.46,Medium Performance,11,Medium,2,High,163,High
+ODI # 3285,4,Kingston,v West Indies,well balanced,Kingston,windy,249.31,Low Performance,10,Medium,2,High,139,Medium
+ODI # 3288,4,Basseterre,v West Indies,well balanced,Basseterre,windy,160.08,Low Performance,6,low,1,Medium,81,low
+ODI # 3289,5,Basseterre,v West Indies,well balanced,Basseterre,windy,107.14,Low Performance,5,low,1,Medium,72,low
+ODI # 3290,5,Basseterre,v West Indies,well balanced,Basseterre,windy,82.14,Low Performance,5,low,1,Medium,69,low
